@@ -1,5 +1,11 @@
  
-#### Format Zip 
+
+#### Format Zip (5 .xlsx)
+
+
+https://github.com/thebenimou/Power-BI-Training/blob/main/Formation%20Power%20BI.zip?raw=true
+
+#### Format Zip (5 .csv)
 
 https://github.com/thebenimou/Power-BI-Training/blob/main/Formation%20Power%20BI.zip?raw=true
 
